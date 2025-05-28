@@ -2,22 +2,20 @@
 
 > **Private. Powerful. Trustless. Welcome to the future of DeFi on [Aleo](https://aleo.org).**
 
-[➡️ Live Demo — Try ZLEND Now](https://zlend.vercel.app/)
+[➡️ Live Demo](https://zlend.vercel.app/)
 
 ---
 
-## ✨ What is ZLEND?
+## ✨ What is zlend?
 
-**Zlend** is a next-gen decentralized **peer-to-peer** protocol for **lending** and **borrowing** — fully **private** by design, and powered by **zero-knowledge proofs**.
-
-![ZLEND Animation](logo/text_black_zlend.svg)
+**zlend** is a next-gen decentralized **peer-to-peer** protocol for **lending** and **borrowing** — fully **private** by design, and powered by **zero-knowledge proofs**.
 
 ---
 
 ## 💥 Start Lending & Borrowing
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=29AFB3&center=true&vCenter=true&width=700&lines=🔐+Your+assets+stay+safe;🧠+Your+data+stays+private;🚀+Your+experience+stays+simple" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=29AFB3&center=true&vCenter=true&width=700&lines=🔐+Your+assets+stay+safe;🧠+Your+data+stays+private;🚀+Your+experience+stays+simple" alt="Typing SVG" />
 </p>
 
 [➡️ Get Started Now](https://zlend.vercel.app/)
@@ -35,23 +33,23 @@
 ## ❓ Frequently Asked Questions
 
 <details>
-<summary>🤔 What is ZLEND?</summary>
-ZLEND is a decentralized protocol enabling **private lending and borrowing** via zero-knowledge technology.
+  <summary>🤔 What is zlend?</summary>
+  <p>ZLEND is a decentralized protocol enabling <strong>private lending and borrowing</strong> via zero-knowledge technology.</p>
 </details>
 
 <details>
-<summary>💸 How does lending and borrowing work?</summary>
-Supply crypto as collateral, borrow against it — **all in privacy**. Smart contracts ensure everything is secure and trustless.
+  <summary>💸 How does lending and borrowing work?</summary>
+  <p>Supply crypto as collateral and borrow against it. <strong>Everything is private</strong>, secured by smart contracts.</p>
 </details>
 
 <details>
-<summary>🪙 What assets can I use?</summary>
-ZLEND currently supports **ETH**, **USDC**, and **Aleo**.
+  <summary>🪙 What assets can I use?</summary>
+  <p>ZLEND currently supports <strong>ETH</strong>, <strong>USDC</strong>, and <strong>Aleo</strong>.</p>
 </details>
 
 <details>
-<summary>🚀 How do I start?</summary>
-Just connect your wallet, deposit assets, and you're ready to go — **privately**.
+  <summary>🚀 How do I start?</summary>
+  <p>Connect your wallet, deposit assets, and you're good to go with <strong>full privacy</strong>.</p>
 </details>
 
 ➡️ [See More FAQs](https://zlend.vercel.app/#faq)
@@ -60,7 +58,7 @@ Just connect your wallet, deposit assets, and you're ready to go — **privately
 
 ## 🧬 Built With Aleo
 
-ZLEND is proudly **powered by Aleo** — a zero-knowledge L1 blockchain that brings privacy and programmability together.
+zlend is proudly **powered by Aleo** — a zero-knowledge L1 blockchain that brings privacy and programmability together.
 
 [🔍 Learn more about Aleo](https://www.aleo.org)
 
@@ -75,10 +73,28 @@ ZLEND is proudly **powered by Aleo** — a zero-knowledge L1 blockchain that bri
 
 ---
 
-> _"Zlend isn't just private DeFi — it's a movement towards a **trustless**, **secure**, and **user-first** financial future."_ ✨
+## 🤝 Powered by & in Partnership With
+
+<p align="center">
+  <img src="assets/zlend-logo.svg" alt="ZLEND" height="100" />
+</p>
+
+<p align="center">
+  <a href="https://zlend.vercel.app"><strong>zlend</strong></a> is proudly built on <a href="https://aleo.org"><strong>Aleo</strong></a> and developed in partnership with <a href="https://zsociety.io"><strong>zSociety</strong></a>.
+</p>
+
+<p align="center">
+  <img src="assets/aleo-logo.svg" alt="Aleo" height="30" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/zsociety-logo.svg" alt="ZSociety" height="30" />
+</p>
+
+---
+
+> _"zlend isn't just private DeFi — it's a movement towards a **trustless**, **secure**, and **user-first** financial future."_ ✨
 
 <p align="center">
   <img src="https://img.shields.io/badge/zk-privacy-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/aleo-blockchain-00BFAE?style=for-the-badge" />
+  <img src="assets/builtaleo-logo.svg" alt="BuiltWithAleo" height="45" />
   <img src="https://img.shields.io/badge/defi-lending-yellow?style=for-the-badge" />
 </p>
