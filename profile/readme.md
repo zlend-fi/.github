@@ -80,7 +80,7 @@ zlend is proudly **powered by Aleo** — a zero-knowledge L1 blockchain that bri
 </p>
 
 <p align="center">
-  <a href="https://zlend.vercel.app"><strong>zlend</strong></a> is proudly built on <a href="https://aleo.org"><strong>Aleo</strong></a> and developed in partnership with <a href="https://zsociety.io"><strong>zSociety</strong></a>.
+  <a href="https://zlend.fi"><strong>zlend</strong></a> is proudly built on <a href="https://aleo.org"><strong>Aleo</strong></a> and developed in partnership with <a href="https://zsociety.io"><strong>zSociety</strong></a>.
 </p>
 
 <p align="center">
