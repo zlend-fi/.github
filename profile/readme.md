@@ -2,7 +2,7 @@
 
 > **Private. Powerful. Trustless. Welcome to the future of DeFi on [Aleo](https://aleo.org).**
 
-[➡️ Live Demo](https://zlend.vercel.app/)
+[➡️ Live Demo](https://zlend.fi/)
 
 ---
 
@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=29AFB3&center=true&vCenter=true&width=700&lines=🔐+Your+assets+stay+safe;🧠+Your+data+stays+private;🚀+Your+experience+stays+simple" alt="Typing SVG" />
 </p>
 
-[➡️ Get Started Now](https://zlend.vercel.app/)
+[➡️ Get Started Now](https://zlend.fi/)
 
 ---
 
@@ -52,7 +52,7 @@
   <p>Connect your wallet, deposit assets, and you're good to go with <strong>full privacy</strong>.</p>
 </details>
 
-➡️ [See More FAQs](https://zlend.vercel.app/#faq)
+➡️ [See More FAQs](https://zlend.fi/#faq)
 
 ---
 
